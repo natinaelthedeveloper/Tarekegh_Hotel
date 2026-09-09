@@ -6,7 +6,7 @@ A modern, responsive, and feature-rich full-stack web application designed for h
 
 ## 🔗 Live Demo & Previews
 
-* **Live Site:** [https://tarekeghhotel.netlify.app](https://www.google.com/search?q=https://tarekeghhotel.netlify.app)
+* **Live Site:** [Tarekehn Hotel](https://tarekeghhotel.netlify.app)
 
 
 ---
