@@ -68,9 +68,9 @@ hotel-project/
 If you liked this project or have any inquiries regarding full-stack web development services, feel free to reach out!
 
 * **Developer:** Natinael Asfaw
-* **Email:** [natinael6504gmail.com](https://www.google.com/search?q=mailto%3Acontact%40natinaelasfaw.com)
-* **LinkedIn:** [https://www.linkedin.com/in/natinael-asfaw-aa6116414](https://linkedin.com)
-* **Portfolio:** [https://natnaelasfawportfolio.netlify.app](https://www.google.com/search?q=https://natinaelasfaw.com)
+* **Phone:** +251 955 053 970
+* **LinkedIn:** [my social media activity](https://www.linkedin.com/in/natinael-asfaw-aa6116414)
+* **Portfolio:** [see more my project](https://www.google.com/search?q=[https://natnaelasfawportfolio.netlify.app)
 
 ---
 
