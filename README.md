@@ -61,6 +61,8 @@ hotel-project/
 └── package.json                # Project dependencies and scripts
 
 ---
+```
+
 ## 📬 Contact & Support
 
 If you liked this project or have any inquiries regarding full-stack web development services, feel free to reach out!
