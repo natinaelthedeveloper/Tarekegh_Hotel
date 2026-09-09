@@ -61,15 +61,15 @@ hotel-project/
 └── package.json                # Project dependencies and scripts
 
 ---
-
 ## 📬 Contact & Support
 
 If you liked this project or have any inquiries regarding full-stack web development services, feel free to reach out!
 
 * **Developer:** Natinael Asfaw
-* **Email:** natinael6504gmail.com
-* **LinkedIn:** https://www.linkedin.com/in/natinael-asfaw-aa6116414
-* **Portfolio:** https://natnaelasfawportfolio.netlify.app/
+* **Email:** [natinael6504gmail.com](https://www.google.com/search?q=mailto%3Acontact%40natinaelasfaw.com)
+* **LinkedIn:** [https://www.linkedin.com/in/natinael-asfaw-aa6116414](https://linkedin.com)
+* **Portfolio:** [https://natnaelasfawportfolio.netlify.app](https://www.google.com/search?q=https://natinaelasfaw.com)
+
 ---
 
 ⭐ **If you find this repository helpful, please consider giving it a star!**
