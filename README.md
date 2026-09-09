@@ -70,7 +70,7 @@ If you liked this project or have any inquiries regarding full-stack web develop
 * **Developer:** Natinael Asfaw
 * **Phone:** +251 955 053 970
 * **LinkedIn:** [my social media activity](https://www.linkedin.com/in/natinael-asfaw-aa6116414)
-* **Portfolio:** [see more my project](https://www.google.com/search?q=[https://natnaelasfawportfolio.netlify.app)
+* **Portfolio:** [see more my project](https://www.google.com/search?q=https://natnaelasfawportfolio.netlify.app)
 
 ---
 
